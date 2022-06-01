@@ -39,6 +39,12 @@ My strengths:
 
 ---
 
+## My projects
+
+- [Custom JS VideoPlayer](https://jushetcon.github.io/js-custom-video-player/)
+- [Bike-Landing site](https://jushetcon.github.io/bike-landing/)
+
+---
 ## Code Example
 
 ```
