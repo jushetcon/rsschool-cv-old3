@@ -68,7 +68,7 @@ a {
 	object-fit: cover;
 }
 
-.profile__text h2 {
+.profile__text h1 {
 	color: #fff;
 	font-size: 1.5em;
 	margin-top: 20px;
@@ -78,7 +78,7 @@ a {
 	line-height: 1.4em;
 }
 
-.profile__text h2 span {
+.profile__text h1 span {
 	font-size: 0.7em;
 	font-weight: 300;
 }
@@ -214,5 +214,9 @@ pre {
 
 .link {
 	color: black;
-	text-decoration:  underline;
+	text-decoration: underline;
+}
+
+.hidden {
+	display: none;
 }
